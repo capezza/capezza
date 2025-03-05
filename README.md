@@ -24,18 +24,6 @@ Currently, I work at the **Department of Industrial Engineering, University of N
 
 ---
 
-## 🎓 Education
-- 🎓 **PhD in Industrial Engineering**  
-  *University of Naples Federico II*, **2020**
-
-- 🎓 **MSc in Engineering Management**  
-  *University of Naples Federico II*, **2016**
-
-- 🎓 **BSc in Engineering Management for Logistics and Production**  
-  *University of Naples Federico II*, **2013**
-
----
-
 ## 💼 Professional Experience
 - **Assistant Professor (fixed-term)**  
   *Department of Industrial Engineering, University of Naples Federico II*  
@@ -48,7 +36,7 @@ Currently, I work at the **Department of Industrial Engineering, University of N
 - **Postgraduate Researcher**  
   *Department of Industrial Engineering, University of Naples Federico II*  
   **2020**
-
+  
 ---
 
 ## 🌍 Visiting Positions
@@ -56,6 +44,18 @@ Currently, I work at the **Department of Industrial Engineering, University of N
 - *School of Mathematics, University of Bristol*, **Feb-Sep 2019**
 - *Department of Statistics, University of Padova*, **Sep 2017-Jul 2018**
 - *Department of Civil and Mechanical Engineering, Technical University of Denmark (DTU)*, **Sep-Oct 2013**
+  
+---
+
+## 🎓 Education
+- 🎓 **PhD in Industrial Engineering**  
+  *University of Naples Federico II*, **2020**
+
+- 🎓 **MSc in Engineering Management**  
+  *University of Naples Federico II*, **2016**
+
+- 🎓 **BSc in Engineering Management for Logistics and Production**  
+  *University of Naples Federico II*, **2013**
 
 ---
 
